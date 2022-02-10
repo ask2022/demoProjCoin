@@ -1,0 +1,4 @@
+com/example/adp/coin/serviceImpl/CoinServiceImpl.class
+com/example/adp/coin/controller/CoinController.class
+com/example/adp/coin/CoinMachineDemoApplication.class
+com/example/adp/coin/service/CoinService.class
